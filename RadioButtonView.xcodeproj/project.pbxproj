@@ -39,20 +39,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		DE8B486A1E5C78D6003E93AD /* RadioButtonView */ = {
+		DE8B486A1E5C78D6003E93AD /* RadioButtonsView */ = {
 			isa = PBXGroup;
 			children = (
 				DEDFA5601E5C471E00804D26 /* RoundButton.swift */,
 				DEDFA55F1E5C471E00804D26 /* RadioButtonsView.swift */,
 			);
-			name = RadioButtonView;
+			name = RadioButtonsView;
 			path = RadioButton;
 			sourceTree = "<group>";
 		};
 		DEDFA5411E5C46A000804D26 = {
 			isa = PBXGroup;
 			children = (
-				DE8B486A1E5C78D6003E93AD /* RadioButtonView */,
+				DE8B486A1E5C78D6003E93AD /* RadioButtonsView */,
 				DEDFA54C1E5C46A000804D26 /* TestApp */,
 				DEDFA54B1E5C46A000804D26 /* Products */,
 			);
