@@ -35,3 +35,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * [Shamas Shahid](https://github.com/shamasshahid/SSRadioButtonsController)
 * [Lawrence MacFadyen](https://github.com/lmacfadyen/RoundButton)
 * [Jake Lin](https://github.com/JakeLin/IBCalculator)
+
+## Known Issues
+
+[Misplacement in Interface Builder](http://stackoverflow.com/questions/42371041/ibdesignable-element-misplaced-in-interface-builder-needs-to-update-frames-manu)
